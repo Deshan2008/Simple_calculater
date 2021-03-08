@@ -46,6 +46,6 @@ while True:
         break
     else:
         print("Invalid Input")
-  
 
-input("presss  Ennter:  ")
+
+input("Press enter to exit : ")
